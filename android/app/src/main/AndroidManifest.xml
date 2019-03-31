@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.dissmissable_listview">
+    package="com.example.dismissable_listview">
 
     <!-- io.flutter.app.FlutterApplication is an android.app.Application that
          calls FlutterMain.startInitialization(this); in its onCreate method.
@@ -8,7 +8,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="dissmissable_listview"
+        android:label="dismissable_listview"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

@@ -1,4 +1,4 @@
-import 'package:dissmissable_listview/pages/movies.dart';
+import 'package:dismissable_listview/pages/movies.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());

@@ -1,6 +1,6 @@
-import 'package:dissmissable_listview/data/movie-list.dart';
-import 'package:dissmissable_listview/models/movie.dart';
-import 'package:dissmissable_listview/widgets/movie-card.dart';
+import 'package:dismissable_listview/data/movie-list.dart';
+import 'package:dismissable_listview/models/movie.dart';
+import 'package:dismissable_listview/widgets/movie-card.dart';
 import 'package:flutter/material.dart';
 
 class MoviesPage extends StatefulWidget {

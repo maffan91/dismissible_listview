@@ -1,4 +1,4 @@
-name: dissmissable_listview
+name: dismissable_listview
 description: A Flutter project that demonstrate the usage of Dismissible Widget throught a ListView.
 
 # The following defines the version and build number for your application.

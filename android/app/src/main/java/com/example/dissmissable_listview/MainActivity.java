@@ -1,4 +1,4 @@
-package com.example.dissmissable_listview;
+package com.example.dismissable_listview;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

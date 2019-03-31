@@ -1,4 +1,4 @@
-import 'package:dissmissable_listview/models/movie.dart';
+import 'package:dismissable_listview/models/movie.dart';
 import 'package:flutter/material.dart';
 
 class MovieCard extends StatelessWidget {
